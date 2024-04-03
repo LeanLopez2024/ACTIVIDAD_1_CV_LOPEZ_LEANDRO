@@ -1,0 +1,83 @@
+---
+title: "CV_LOPEZ_LEANDRO"
+author: "LEANDRO"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## CURRICULUM VITAE
+
+### DATOS PERSONALES
+
+![LOPEZ LEANDRO MARTIN](foto.png)
+
+- Apellido y Nombre: LÓPEZ LEANDRO MARTÍN
+- Nacionalidad: argentino
+- Fecha de Nacimiento: 19/07/1991
+- Estado Civil: Soltero
+- DNI: Nº 36.229.764
+- Domicilio: Portugal 2321 - Bº Rotary 23
+- Localidad y Provincia: Caleta Olivia - Santa Cruz
+
+
+
+
+
+
+
+
+### CONTACTO
+
+- Correo:<a_leo_91@hotmail.com>
+
+- Tel: ***2974613537***
+
+- Tel: ***2974747928***
+
+
+### FORMACION ACADEMICA
+
+  AÑO |  | TITULO | 
+|-------:|:------|-----------|:---------:| 
+| 2011 | |TECNICO QUIMICO | 
+| 2017 |  |TECNICO UNIVERSITARIO EN PETROLEO | 
+
+
+
+
+### EXPERIENCIA LABORAL
+
+  AÑO |  | | EMPRESA | 
+|-------:|:------|-----------|:---------:| 
+| 2014 |  | SL GROUP | 
+| 2015 |  | YPF S.A. | 
+| 2016 |  | INDUSER S.R.L. | 
+| 2018 |  | INSTITUTO DE ENERGIA SANTA CRUZ |
+
+
+
+
+
+### OBJETIVOS
+
+- Conseguir logros dentro de una empresa, contribuyendo con mi experiencia de una manera eficaz formando parte de un equipo de trabajo, adquirir conocimientos y desempeñarme en un ambiente laboral cordial que me permita superarme profesionalmente.
+
+
+
+
+### CURSOS REALIZADOS
+
+  AÑO | ORIENTACION | FECHA DE INICIO | FECHA DE FINALIZACION | 
+|-------:|:------|-----------|:---------:| 
+| 2021 | EXEL INTERMEDIO | JUN-2021 | AGOS-2021 |
+| 2017 | SOLDADURA | MAR-2023 | DIC-2023 | 
+| 2017 | MECANICO EN MOTORES DIESEL Y NAFTEROS | FEB-2017 | DIC-2017 | 
+| 2016 | LIQUIDACION DE SUELDOS | SEP-2016 | DIC-2016  |
+| 2015 | INTRODUCCION AL SISTEMA DE EXTRACCION PCP | MAY-2015 | JUN-2015 |
+| 2013 | TRANSPORTE Y LOGÍSTICA DE EQUIPOS EN LA INDUSTRIA PETROLERA | SEP-2023 | DIC-2023 | 
+
+
